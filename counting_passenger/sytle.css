@@ -1,0 +1,44 @@
+body{
+    background-color:cadetblue;
+}
+.count_app{
+    margin:auto 20px;
+    text-align:center;
+}
+#increment-btn{
+    padding:15px;
+    border:none;
+    color:white;
+    font-weight: bold;
+    margin:5px;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+    background-color: brown;
+    cursor: pointer;
+    width:100px;
+}
+#increment-btn:hover{
+    background-color: black;
+}
+#save-btn{
+    padding:15px;
+    border:none;
+    color:white;
+    font-weight: bold;
+    margin:5px;
+    border-radius:5px;
+    width:100px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+    background-color: brown;
+    cursor: pointer;
+    display:inline-block
+}
+#save-btn:hover{
+    background-color: black;
+}
